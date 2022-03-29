@@ -1,0 +1,60 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+.container {
+    height: 400px;
+    display: flex;
+    background-image: url(pexels-c%C3%A1tia-matos-1072179.jpg);
+    background-size: cover;
+}
+.BOX1 {
+    background-image: url(RED.jpg);
+    flex: 1;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 150px;
+
+}
+.BOX2 {
+    background-image: url(pexels-kadri-vosumae-756903.jpg);
+    flex: 1;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-size: cover;
+    color: #FFFFFF;
+    font-size: 150px;
+}
+.BOX3 {
+    background-image: url(pexels-pixabay-62307.jpg);
+    flex: 1;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-size: cover;
+    font-size: 150px;
+    color: #FFFFFF;
+}
